@@ -1,4 +1,26 @@
-﻿
+<html>
+<body>
+<div align="center"><h1> Software Requirements Spesification</h1></div>
+
+<p align="center"><b>Version 1.7 </b><br>
+<p align="center">28 Maret 2018</b>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png" width="250" height="250"/ >
+</p>
+
+<p align="center"><b>Manajemen Administrasi Data Kependudukan Desa Lohbener <br>
+</b>
+<p align="center">Kelompok 1 <br>
+ Hilmy Lazuardi            (1603099)<br>
+ Ismatul Maula    (1603100)<br>
+ jakaria       (1603101)<br><br><br>
+
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b>
+<p align="center"><b>2018</b>
+</p>
+</body>
+</html>﻿
 <a name="_ijvvmg61xwxo"></a>**Software Requirements** 
 
 <a name="_i2c8p7mhton"></a>**Specification** 
