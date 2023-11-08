@@ -1,20 +1,24 @@
 <html>
 <body>
-<p align="right"><h1> Software Requirements Spesification</h1>
+<div align="right"><h1> Software Requirements</h1></div>
+<div align="right"><h1> Spesification</h1></div>
 
-<p align="center"><b>Manajemen Administrasi Data Kependudukan Desa Lohbener <br>
-</b>
-<p align="center">Kelompok 1 <br>
- Hilmy Lazuardi            (1603099)<br>
- Ismatul Maula    (1603100)<br>
- jakaria       (1603101)<br><br><br>
+<div align="right"><h1> for</h1></div>
 
-<p align="center"><b>Jurusan Teknik Informatika</b><br>
-<p align="center"><b>Politeknik Negeri Indramayu</b>
-<p align="center"><b>2018</b>
-</p>
+<div align="right"><h1> Pusai Informasi dan</h1></div>
+<div align="right"><h1> Konseling Konsultasi</h1></div>
+
+<div align="right"><h2> Prepared by</h2></div>
+<div align="right"><h2> Abdul Habib Risyik</h2></div>
+<div align="right"><h2> Muhammad Amien Rais</h2></div>
+<div align="right"><h2> Muhammad Farel Wicaksono</h2></div>
+<div align="right"><h2> Muhammad Rizki</h2></div>
+
+
+<div align="right"><h2> 01st November 2023</h2></div>
 </body>
-</html>﻿
+</html>
+
 <a name="_ijvvmg61xwxo"></a>**Software Requirements** 
 
 <a name="_i2c8p7mhton"></a>**Specification** 
